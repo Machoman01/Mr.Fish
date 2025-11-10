@@ -76,8 +76,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Machoman01&layout=compact&theme=radical)
 
+---
+
 ### 🐍 Моя активность в коде
 
 [![Snake animation](https://github.com/Machoman01/github-readme-snake-animation/blob/output/github-snake-dark.svg)](https://github.com/Machoman01)
+
 
 
