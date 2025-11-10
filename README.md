@@ -36,6 +36,12 @@
 
 ---
 
+### 🔥 Моя активность
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Machoman01&theme=dracula)
+
+---
+
 ### 📊 Моя статистика:
 ![Mr. Free Spirit's GitHub stats](https://github-readme-stats.vercel.app/api?username=\Machoman01&show_icons=true&theme=radical)
 
