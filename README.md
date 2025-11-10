@@ -65,7 +65,7 @@
 ---
 
 ### 📊 Моя статистика:
-![Mr. Free Spirit's GitHub stats](https://github-readme-stats.vercel.app/api?username=\Machoman01&show_icons=true&theme=radical)
+![Mr. Free Spirit's GitHub stats](https://github-readme-stats.vercel.app/api?username=\&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Machoman01&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Machoman01&layout=compact&theme=radical)
 
