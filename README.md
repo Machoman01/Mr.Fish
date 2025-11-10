@@ -30,4 +30,11 @@
 
 ---
 
+### 📊 Моя статистика:
+![Mr. Free Spirit's GitHub stats](https://github-readme-stats.vercel.app/api?username=\Machoman01&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Machoman01&layout=compact&theme=radical)
+
+---
+
 ⭐ _“Код — это искусство, и я учусь быть его мастером.”_
