@@ -25,7 +25,7 @@
 ---
 
 ### 📫 Связь со мной:
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/https://t.me/Alichombola_m)  
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Alichombola_m)  
 [![Gmail Badge](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:m73409449@gmail.com)
 
 ---
