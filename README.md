@@ -24,6 +24,10 @@
 
 ---
 
+⭐ _“Код — это искусство, и я учусь быть его мастером.”_
+
+---
+
 ### 📫 Связь со мной:
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Alichombola_m)  
 [![Gmail Badge](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:m73409449@gmail.com)
@@ -35,6 +39,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Machoman01&layout=compact&theme=radical)
 
----
 
-⭐ _“Код — это искусство, и я учусь быть его мастером.”_
